@@ -1,3 +1,4 @@
+![Screenshot 2024-08-05 195558](https://github.com/user-attachments/assets/4c011283-03f2-4de2-b432-88d42c5f01ad)
 # Shashiपथ
 
 Shashiपथ is a project initiated during the ISRO Hackathon, now progressing into a comprehensive research paper. Our objective is to develop an advanced algorithm to find the safest navigation route for a lunar rover on the moon's surface.
